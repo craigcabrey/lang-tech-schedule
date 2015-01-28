@@ -1,2 +1,5 @@
-# lang-tech-schedule
-A student-supported website that shows the schedule for the ROCHESTER INSTITUTE OF TECHNOLOGY ENGL 351 LANGUAGE TECHNOLOGY class. 
+# (lang-tech-schedule)[google.com]
+A student-supported website that shows the schedule for the RIT ENGL 351 Language Technology class. 
+
+# Help me out!
+
